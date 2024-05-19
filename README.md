@@ -27,7 +27,7 @@ Esse componente, também vazio, deve possuir toda a lógica e corpo responsável
 
 ```bash
 # clone repository
-git clone https://github.com/sihann/desafio02-trilha-react.git
+git clone https://github.com/delania-oliveira/desafio02-trilha-react.git
 
 # install
 yarn
@@ -41,4 +41,4 @@ yarn dev
 
 ####  :pushpin: License
 
-[MIT License](https://github.com/sihann/desafio02-trilha-react/blob/main/LICENSE)
+[MIT License](https://github.com/delania-oliveira/desafio02-trilha-react/blob/main/LICENSE)
